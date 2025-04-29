@@ -1,6 +1,7 @@
 # audio_player
 
 A new Flutter project.
+![audio-player](https://github.com/user-attachments/assets/10ace17c-345b-4f96-ae1d-b34f4277d3a6)
 
 ## Getting Started
 
